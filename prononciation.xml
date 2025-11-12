@@ -10,8 +10,8 @@
         <alias>Global AI Community</alias>
     </lexeme>
     <lexeme>
-        <grapheme>Benigni</grapheme>
-        <phoneme>bɛˈniːnji</phoneme>
+        <grapheme>Global AI</grapheme>
+        <phoneme>ɡlɔ.bɔl ɛ a.i</phoneme>
     </lexeme>
     <lexeme>
         <grapheme>Azure AI Speech</grapheme>
@@ -20,6 +20,14 @@
     <lexeme>
         <grapheme>Douarnenez</grapheme>
         <phoneme>dwaʁ.nə.ne</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>Lesvenen</grapheme>
+        <phoneme>lɛ.nə.vɛ̃</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>Pont-Aven</grapheme>
+        <phoneme>pɔ̃.ta.vɛ̃</phoneme>
     </lexeme>
     <lexeme>
         <grapheme>😀</grapheme>
